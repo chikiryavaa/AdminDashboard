@@ -1,0 +1,504 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\test\\AdminDashboard_back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\services\\clientservce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:services\\clientservce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\models\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:models\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\interfaces\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:interfaces\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\dtos\\ratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:dtos\\ratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:controllers\\ratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\data\\dashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:data\\dashboarddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\admindashboard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:admindashboard.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\admindashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:admindashboard.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\admin_dashboard.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:admin_dashboard.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|e:\\projects\\test\\admindashboard_back\\migrations\\20250618093250_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D65A93-453E-478E-AB72-49E46C21B67B}|AdminDashboard.csproj|solutionrelative:migrations\\20250618093250_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:20:48.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:21:06.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Models\\Rate.cs",
+              "RelativeDocumentMoniker": "Models\\Rate.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Models\\Rate.cs",
+              "RelativeToolTip": "Models\\Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:21:17.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientServce.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Services\\ClientServce.cs",
+              "RelativeDocumentMoniker": "Services\\ClientServce.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Services\\ClientServce.cs",
+              "RelativeToolTip": "Services\\ClientServce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:48:46.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:37:50.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:26:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Services\\PaymentService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Services\\PaymentService.cs",
+              "RelativeToolTip": "Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:49:59.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RateService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Services\\RateService.cs",
+              "RelativeDocumentMoniker": "Services\\RateService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Services\\RateService.cs",
+              "RelativeToolTip": "Services\\RateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:51:19.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentDto.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\PaymentDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PaymentDto.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\PaymentDto.cs",
+              "RelativeToolTip": "DTOs\\PaymentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:25:37.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginResponse.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:24:36.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:52:57.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:53:31.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRateService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IRateService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IRateService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IRateService.cs",
+              "RelativeToolTip": "Interfaces\\IRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:36:47.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IClientService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "Interfaces\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:35:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:29:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RateDto.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\RateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RateDto.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\RateDto.cs",
+              "RelativeToolTip": "DTOs\\RateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:25:53.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginRequest.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:24:24.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\ClientDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClientDto.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\DTOs\\ClientDto.cs",
+              "RelativeToolTip": "DTOs\\ClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:25:23.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RateController.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\RateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RateController.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\RateController.cs",
+              "RelativeToolTip": "Controllers\\RateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:54:17.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:44:52.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DashboardDbContext.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Data\\DashboardDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DashboardDbContext.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Data\\DashboardDbContext.cs",
+              "RelativeToolTip": "Data\\DashboardDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:21:49.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:59:25.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPaymentService.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:36:19.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T17:18:17.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwG8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:07:45.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminDashboard.http",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\AdminDashboard.http",
+              "RelativeDocumentMoniker": "AdminDashboard.http",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\AdminDashboard.http",
+              "RelativeToolTip": "AdminDashboard.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-18T09:52:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T09:52:57.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminDashboard.csproj",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\AdminDashboard.csproj",
+              "RelativeDocumentMoniker": "AdminDashboard.csproj",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\AdminDashboard.csproj",
+              "RelativeToolTip": "AdminDashboard.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T09:52:50.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "admin_dashboard.db",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\admin_dashboard.db",
+              "RelativeDocumentMoniker": "admin_dashboard.db",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\admin_dashboard.db",
+              "RelativeToolTip": "admin_dashboard.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAI8SURBVDhPdVNLT1NBGD3a23gJKaJUwsIEUaMoL2NsGyqxoCYEDRuKi0ZW3WHkL0D8BWqkJsLKQlsX9bGrNhqqRKRutCVp1BhFEiUxVyVx0Ud67/DN3EcvsZ7ck2/uN9/MnDkzswsGYrEY0xgD0zQwippGbabBzPEoORxb5Upl6Nrk5HsxiBeaWFhcZKqqWqxyVmuMx\u002BOsUCiwufn5P3dmI6eMYdhtRLEKh0pRVTlVQZpIkMPtduOs398sSdKSSBBqE5hqKJBovW1B/49Go0ilUihXys0iQZCMKPbMYQ7OrmaRza7C6/PBRxwbC4oe8gGzkYio4bApIPOM9v3oAppa23DpSgiyuw13781ZfRwa1ZqwJuAu86p8Lg//uQA6D7cjt/IKPUcOof/CMNbyearSp6HjEpHjHxMzmSU0NjTgUTKJUCiEJw\u002BT2OtyUT5DKkXJjtPbqYAQGBxEsVhEcHwciUQCl0dHsf5tA1W5CS\u002BWV1AqlcivOlvQZTH09vTi9fJLfF7fgGcggHcfvkBpbEc4HIay/zje5tb\u002Bp0A3kXPi6gSUzR94/CCON3Qaw8da8PzrX4x0HsD3n7/rm1i7BxSJHq8X16em4OnrRvrTL1zscOHpRwVn\u002Brrqmyjugf4JmjjdfQL7lALSz9Locm7hYGuL5ReHTUFNlgAVcVV7ZBlDA/0IjpzHyaMdkOnfXmvzgN9BenGSQ6dTgrMORa1tC9ZzvnnrNm2NjKROvjI/KhGNnFiA2vozZ7gxM01jgW0oG0\u002BFgH6cagAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-18T09:37:55.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250618093250_initial.cs",
+              "DocumentMoniker": "E:\\projects\\test\\AdminDashboard_back\\Migrations\\20250618093250_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250618093250_initial.cs",
+              "ToolTip": "E:\\projects\\test\\AdminDashboard_back\\Migrations\\20250618093250_initial.cs",
+              "RelativeToolTip": "Migrations\\20250618093250_initial.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:32:50.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
