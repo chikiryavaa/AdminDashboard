@@ -6,6 +6,27 @@
 Email: admin@mirra.dev
 Password: admin123
 
+## Установка и запуск
+### Frontend
+Перейдите в папку admin_dashboard_front, после чего установите зависимости и запустите проект
+
+```bash
+  cd admin_dashboard_front 
+  npm i
+  npm run dev
+```
+
+### Backend
+Перейдите в папку AdminDashboard_back, восстановите зависимости, соберите проект и запустите
+
+```bash
+ cd AdminDashboard_back
+ dotnet restore
+ dotnet build
+ dotnet run
+``` 
+
+
 ### Примеры Curl
 #### Авторизация
 curl -X POST http://localhost:5000/api/auth/login \
@@ -36,4 +57,15 @@ curl -X GET http://localhost:5000/api/clients \
   -H "Authorization: Bearer $TOKEN" \
   -H "Content-Type: application/json" \
   -d '{"currentRate":12.5}'
+
+### Форма входа
+  ![image](https://github.com/user-attachments/assets/ade606a5-67ec-4429-8be4-b43bb80b6fc9)
+
+### Админ панель
+![image](https://github.com/user-attachments/assets/c581479d-1640-4c2b-8b99-3dbc12f41bdd)
+
+### История платежей клиента
+![image](https://github.com/user-attachments/assets/9fdef41a-4a53-4e2d-a240-908eb2f46657)
+
+
 
